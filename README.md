@@ -15,8 +15,8 @@ https://www.ctrl.blog/entry/creative-commons-unicode-fallback-font.html
 <ccsymbol style="letter-spacing: 1px; vertical-align: middle; font-family: Helvetica,
                Arial,
                sans-serif,
-               CCSymbols;">🅭🅮🅯🄍🄎🄏</ccsymbol></div>
-</div>
+               CCSymbols;">🅭🅮🅯🄍🄎🄏</ccsymbol>
+
 
 ```
 Character	Rendering meaning
