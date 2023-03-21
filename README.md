@@ -12,10 +12,11 @@ https://www.ctrl.blog/entry/creative-commons-unicode-fallback-font.html
 @import url("https://publicdomain-nocopyright.github.io/Hosted-Public-Domain-font-with-symbols/2020-04-19_cc-symbols/font-face.css");
 </style>
 
-<ccsymbol style="font-family: Helvetica,
+<ccsymbol style="letter-spacing: 1px; vertical-align: middle; font-family: Helvetica,
                Arial,
                sans-serif,
-               CCSymbols;">🅮</ccsymbol>
+               CCSymbols;">🅭🅮🅯🄍🄎🄏</ccsymbol></div>
+</div>
 
 ```
 Character	Rendering meaning
