@@ -18,3 +18,16 @@ https://www.ctrl.blog/entry/creative-commons-unicode-fallback-font.html
                CCSymbols;">🅮</ccsymbol>
 
 ```
+Character	Rendering meaning
+
+```
+
+U+0229C	⊜	No derivatives<br>
+U+1F16D	🅭	Creative Commons<br>
+U+1F16E	🅮	Public Domain<br>
+U+1F16F	🅯	Attribution<br>
+U+1F10D	🄍	No rights reserved<br>
+U+1F10E	🄎	Share-alike<br>
+U+1F10F	🄏	Non-commercial<br>
+
+```
